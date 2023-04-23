@@ -31,7 +31,7 @@
   "homepage": "https://github.com/nvuillam/vscode-groovy-lint#readme",
   "dependencies": {
     "debug": "^4.1.1",
-    "find-java-home": "^1.1.0",
+    "find-java-home": "^1.2.2",
     "fs-extra": "^8.1.0",
     "glob-promise": "^3.4.0",
     "npm-groovy-lint": "^10.0.0",
