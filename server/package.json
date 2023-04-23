@@ -37,7 +37,7 @@
     "npm-groovy-lint": "^10.0.0",
     "vscode-languageserver": "^6.1.1",
     "vscode-languageserver-textdocument": "^1.0.1",
-    "vscode-uri": "^2.1.1"
+    "vscode-uri": "^2.1.2"
   },
   "devDependencies": {
     "@types/fs-extra": "^8.1.0"
